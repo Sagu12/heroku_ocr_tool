@@ -1,0 +1,4 @@
+Flask_Uploads==0.2.1
+pytesseract==0.3.7
+Flask==1.1.2
+Pillow==8.1.0
